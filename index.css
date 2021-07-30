@@ -151,7 +151,7 @@ header .logo #spansath {
         overflow: hidden;
     }
     .banner:before {
-        width: 300px;
+        width: 80px;
         transform: skewX(-25deg) translateX(50%);
     }
     .banner .textbox {
